@@ -31,7 +31,7 @@ Utilizing Turbolinks & JavaScript, i was able to focus the `<create>` _task name
 
 * Wyncode resources
 * [Bootstrap Modals](http://getbootstrap.com/javascript/#modals)
-* Wyncode TA’s & colleges
+* Wyncode TA’s & colleagues
 
 ### Technology Used
 
