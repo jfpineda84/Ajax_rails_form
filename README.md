@@ -1,24 +1,51 @@
-# README
+# AJAX ToDo List Project - Week 07 HW
+## Description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Show case the implementation of AJAX in Rails and manipulation of rails scaffolding, to showcase a "single page" app. Furthermore,  implement bootstrap static modals for rerouting the editing and show pages in one single static element.  
 
-Things you may want to cover:
+## Synopsis
 
-* Ruby version
+In the AJAX ToDo List app, i have merged the  `<creation>`, and `<index>` to be shown the action in a single page. 
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+Withe use of Bootstrap static modals for both `<show>` & `<edit>`, one can easily create changes with the same `<index>` page
 
-* Services (job queues, cache servers, search engines, etc.)
+Edit Modal: ![Edit Modal](url)
 
-* Deployment instructions
 
-* ...
+Show Modal: ![Show Modall](url)
+
+
+Utilizing Turbolinks & JavaScript, i was able to focus the `<create>` _task name box_, so that this string text tag stays activated continuously without the need for reloading of the entire page.
+
+
+
+ 
+
+### Resources
+
+* Wyncode resources
+* [Bootstrap Modals](http://getbootstrap.com/javascript/#modals)
+* Wyncode TA’s & colleges
+
+### Technology Used
+
+**Ruby Version 2.4.1p111**
+**Rails Version 5.1.2**
+**jquery Version 3.2.1**
+**Bootstrap v3.3.7**
+
+### Licence
+
+The project uses the **jfpineda84 License**. Feel free to fork this repo or contact me for more information.
+
+#### Contact info 
+
+**Juan Fernando** - _**jfpineda84@gmail.com**_
+
+
+
+
