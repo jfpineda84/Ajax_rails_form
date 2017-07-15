@@ -1,0 +1,5 @@
+
+$('.modal-title').html("Task #<%= @task.id %>")
+$('.modal-body').html("<%= j @task.name %>")
+$('.modal-footer .btn-primary').hide()
+$('.modal').modal()
