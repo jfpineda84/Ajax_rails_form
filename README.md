@@ -9,22 +9,22 @@ In the AJAX ToDo List app, i have merged the  `<creation>`, and `<index>` to be 
 
 ![index_code](https://user-images.githubusercontent.com/28307526/28240977-2ace957a-6959-11e7-9f5f-effe8ff13bd8.png)
 
-Withe use of Bootstrap static modals for both `<show>` & `<edit>`, one can easily create changes with the same `<index>` page
+Used Bootstrap static modals to incorporate both the `<edit>` & `<show>` views/pages within the modal.
+
+`<edit>` code and modal view
 
 ![edit_js](https://user-images.githubusercontent.com/28307526/28240962-d92b2df0-6958-11e7-829f-89b2e03de936.png)
-
 ![edit_view](https://user-images.githubusercontent.com/28307526/28240965-ffa87eba-6958-11e7-8418-ecec751e8a14.png)
 
+`<show>` code and modal view
+
 ![show_js](https://user-images.githubusercontent.com/28307526/28240969-1394953a-6959-11e7-8e64-6f93f507a9bb.png)
-
 ![show_view](https://user-images.githubusercontent.com/28307526/28240970-179d2232-6959-11e7-9a93-95285a46a5d8.png)
-
 
 Utilizing Turbolinks & JavaScript, i was able to focus the `<create>` _task name box_, so that this string text tag stays activated continuously without the need for reloading of the entire page.
 
 
 ![focus_js](https://user-images.githubusercontent.com/28307526/28240980-450f2120-6959-11e7-90b9-c23f56d97d9d.png)
-
 ![focus_view](https://user-images.githubusercontent.com/28307526/28240984-62ddbcfc-6959-11e7-92ec-fc2e13617669.png)
 
 ### Resources
@@ -47,6 +47,7 @@ The project uses the **jfpineda84 License**. Feel free to fork this repo or cont
 #### Contact info 
 
 **Juan Fernando** - _**jfpineda84@gmail.com**_
+
 
 
 
